@@ -52,6 +52,7 @@ The choice to use an address =>bytes32 instead of address => string, was as a re
 <h2>StandardContractStorage Architecture</h2>
 
 https://github.com/saibaneer/contract-manager-task/blob/d8f6878ddafa8e50f3ce8f6a2134e903b338b443/InheriticanceGraph.png
+https://github.com/saibaneer/contract-manager-task/blob/master/InheriticanceGraph.png?raw=true
 
 * Use of libraries. 
 
